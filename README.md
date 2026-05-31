@@ -1,4 +1,4 @@
-## Hi, I'm Vihanga
+## Hi, I'm V
 
 I'm a Melbourne-based AI & Data Science graduate from Swinburne University of Technology.
 
