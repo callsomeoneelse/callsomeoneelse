@@ -10,7 +10,7 @@ I love working with AI and finding ways to make life easier with it in more econ
 - REST API design & backend fundamentals
 
 **Tech I work with**
-Python · PyTorch · TensorFlow · SQL · GCP · AWS · Hugging Face · MLOps 
+Python · PyTorch · TensorFlow · SQL · GCP · AWS · Hugging Face · MLOps · JavaScript
 
 **A few things I've worked on**
 - Cut LLM inference costs by 80% via LoRA/QLoRA fine-tuning on GCP while keeping hallucination rates under 3%
